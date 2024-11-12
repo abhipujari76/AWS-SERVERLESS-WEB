@@ -6,9 +6,14 @@ Project Description: This project involved building a serverless website using A
 Reasons for Choosing Serverless Architecture:
 
 Scalability: Serverless solutions like AWS Lambda automatically scale to handle varying amounts of traffic, ensuring consistent performance during high user loads.
+
+
 Cost-effectiveness: Serverless computing follows a pay-as-you-go model, so you only pay for the compute time you use, reducing overall costs for smaller or sporadically used applications.
+
 Reduced Maintenance: Serverless platforms eliminate the need for server management, including patching, scaling, and uptime monitoring, allowing developers to focus on code and application logic.
+
 Faster Development: With serverless architecture, developers can quickly deploy and iterate on application features without worrying about infrastructure complexities.
+
 High Availability: AWS services like Lambda and DynamoDB are designed with built-in fault tolerance and high availability, which improves the reliability of the application.
 
 ## Amazon services use
