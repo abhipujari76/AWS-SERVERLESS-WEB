@@ -24,10 +24,10 @@ S3, API GATEWAY(REACT), LAMBDA, DYNAMO DB.
 
 ![view the data of student](https://github.com/user-attachments/assets/a39f88be-29ed-4b2c-8486-2502383f77a9)
 
+![adding data to data basge](https://github.com/user-attachments/assets/b3dbadb0-171d-4437-a6fe-f3ab8135d955)
 
-##CREATING TABLES IN DYNAMO DB 
+##CREATING SECURE CONNECTION USING CLOUDFRONT
+![https  added and secusre after cloudfront](https://github.com/user-attachments/assets/0e85a351-7f86-4b8b-96bd-341bef5ae12f)
 
-
-![Craeting tabl in lambda](https://github.com/user-attachments/assets/5bf4cde6-8fa3-4afc-ae04-5e0137dd0020)
 
 
