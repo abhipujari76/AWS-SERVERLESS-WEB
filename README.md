@@ -19,3 +19,7 @@ High Availability: AWS services like Lambda and DynamoDB are designed with built
 ## Amazon services use
 
 S3, API GATEWAY(REACT), LAMBDA, DYNAMO DB.
+
+#SNAPSHOT OF THE WEBSITES
+
+![view the data of student](https://github.com/user-attachments/assets/a39f88be-29ed-4b2c-8486-2502383f77a9)
