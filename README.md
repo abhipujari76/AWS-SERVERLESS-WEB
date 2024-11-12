@@ -23,3 +23,11 @@ S3, API GATEWAY(REACT), LAMBDA, DYNAMO DB.
 #SNAPSHOT OF THE WEBSITES
 
 ![view the data of student](https://github.com/user-attachments/assets/a39f88be-29ed-4b2c-8486-2502383f77a9)
+
+
+##CREATING TABLES IN DYNAMO DB 
+
+
+![Craeting tabl in lambda](https://github.com/user-attachments/assets/5bf4cde6-8fa3-4afc-ae04-5e0137dd0020)
+
+
